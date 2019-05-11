@@ -1,0 +1,24 @@
+html {
+	font-family: 'Saira Semi Condensed', sans-serif;
+}
+body {
+	background-color: #f9f9f9;
+}
+nav ul a:hover {
+	background-color: #8f4eaa;
+}
+.dropdown-content {
+	background-color: #7b1fa2;	
+}
+
+.container-padding {
+	padding-top: 8vh;
+}
+
+.pagination li.active {
+    background-color: #7b1fa2;
+}
+
+.side-nav {
+	background-color: #ffffff;
+}
