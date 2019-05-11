@@ -1,6 +1,6 @@
 
 <div class="col s12 m4">
-	<h3 class="center-align">Last post:</h3>
+	<h3 class="center-align">Last posts:</h3>
 	<div class="col s12 m12">
 		<ul class="collection">
 			<?php foreach($sitebar_posts as $post) : ?>			
