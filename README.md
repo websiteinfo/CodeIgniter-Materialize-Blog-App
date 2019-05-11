@@ -9,8 +9,10 @@ Pass: admin<br /><br />
 **Features:**<br />
 - Login/register users<br />
 - Add/edit/delete posts<br />
+- Edit posts with CKEditor<br />
 - Add/delete categories<br />
 - Add/edit images<br />
+- Sitebar with last posts<br />
 - Fast material RWD design<br /><br />
 
 Home page:<br />
